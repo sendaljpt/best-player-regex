@@ -6,7 +6,7 @@
 
 ## Installing
 
-- make sure you have install python and pip
+- make sure you have install python
 - clone this repo
 	```
     $ git clone https://github.com/sendaljpt/best-player-regex
