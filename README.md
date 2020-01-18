@@ -3,7 +3,6 @@
 ## Requirements
 
 - [Python version 3.8.1](https://www.python.org/downloads/release/python-381/)
-- [pip](https://pip.pypa.io/en/stable/installing/)
 
 ## Installing
 
